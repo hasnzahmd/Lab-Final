@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.header div {
+  padding-top: 2rem;
+}
+
+.header h1 {
+  color: rgb(32, 53, 135);
+}
